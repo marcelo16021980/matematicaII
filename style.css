@@ -78,16 +78,16 @@
 .estudante-icone{
     width: 24px;
 }
+
+
+.imagemrodape{ 
+    width: 10%;
+}
 .rodape{
-    background-color: #383D58;
+    background-color:;
     text-align: center;
     align-items: center;
     padding: 30px;
     color: white;
-}
-.imagemrodape{ 
-    width: 10%;
-}
-.imagemrodape{
-    font-size: large;
+
 }
