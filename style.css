@@ -79,9 +79,12 @@
     width: 24px;
 }
 .rodape{
-    background-color: green;
+    background-color: black;
     text-align: center;
     align-items: center;
     padding: 30px;
     color: white;
+}
+.imagemrodape{ 
+    width: 10%;
 }
