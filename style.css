@@ -3,11 +3,12 @@
     margin: 0;
 }
 .cabecalho{
-    background-color: #383D58;
-    color: white;
+    background-image:linear-gradient(#383D58 ,rgb(103, 107, 103));
+    color: whitesmoke;
+    font-weight: 500;
     display:flex;
     justify-content: space-around;
-    padding: 16px 0;
+    padding: 25px 0;
     align-items: center; 
 }
 .cabecalho-imagem{
@@ -22,7 +23,7 @@
 
 }
 .escola{
-    background-image: linear-gradient(#383D58,#4EBFE9);
+    background-image: linear-gradient(rgb(103, 107, 103), #465ddf);
     color: white;
     display: flex;
     align-items: center;
@@ -50,7 +51,7 @@
     width: 25%;
 }
 .estudante{
-    background-image:linear-gradient (#b96767 ,  rgb(99, 105, 99));
+    background-image: linear-gradient(#465ddf , rgb(103, 107, 103)); 
 }
 .estudante-todos{
     display: grid;
@@ -88,7 +89,7 @@
     align-items: center;
     padding: 30px;
     color: white;
-    background-color: rgb(99, 105, 99);
+    background-color: rgb(47, 49, 47);
 
 }
  
