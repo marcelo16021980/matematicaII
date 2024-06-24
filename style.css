@@ -50,7 +50,7 @@
     width: 25%;
 }
 .estudante{
-    background-color:#D9D9D9;
+    background-image:linear-gradient (#b96767 ,  rgb(99, 105, 99));
 }
 .estudante-todos{
     display: grid;
@@ -88,7 +88,7 @@
     align-items: center;
     padding: 30px;
     color: white;
-    background-color: green;
+    background-color: rgb(99, 105, 99);
 
 }
  
